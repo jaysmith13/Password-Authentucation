@@ -1,4 +1,4 @@
-from dbm import _Database
+
 import getpass
 database = {"doe.john": "123456", "doe.john": "654321"}
 username = input("Enter Your Username : ")
